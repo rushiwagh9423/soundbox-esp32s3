@@ -1,0 +1,2 @@
+dcb5a329d17834591f375eb25b6f54d52f72c4adc210cefb8c58077fc67ebe62  soundbox_esp32s3_app.bin
+140c10f0c892900014e67e2ccb10406cdef486c967212af89df944d36ba5ca10  soundbox_esp32s3_merged_4MB.bin
